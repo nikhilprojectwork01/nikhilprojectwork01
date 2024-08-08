@@ -29,7 +29,7 @@
 
 <h2>Thank You So Much For Visiting My GitHub Profile</h2>
 <p>Hope you Like My Project Work <br/>
-Have a Good day if you like to conatct with me then here is my details:</p>
+Have a Good day if you like to contact with me then here is my details:</p>
 <ul>
   <li>Phone No: <b>9452883012</b></li>
   <li>Email Id: <b>nikhil2002pandey@gmail.com</b></li>
